@@ -1,0 +1,11 @@
+D:\VS Studio\CsProjects\CS_Works\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.exe
+D:\VS Studio\CsProjects\CS_Works\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.deps.json
+D:\VS Studio\CsProjects\CS_Works\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.dll
+D:\VS Studio\CsProjects\CS_Works\AreaOfTriangle\bin\Debug\netcoreapp3.1\AreaOfTriangle.pdb
+D:\VS Studio\CsProjects\CS_Works\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.csprojAssemblyReference.cache
+D:\VS Studio\CsProjects\CS_Works\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.dll
+D:\VS Studio\CsProjects\CS_Works\AreaOfTriangle\obj\Debug\netcoreapp3.1\AreaOfTriangle.pdb

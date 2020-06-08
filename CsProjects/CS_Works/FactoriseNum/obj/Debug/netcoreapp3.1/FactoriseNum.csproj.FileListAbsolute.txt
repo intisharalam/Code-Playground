@@ -1,0 +1,11 @@
+D:\VS Studio\CsProjects\CS_Works\FactoriseNum\bin\Debug\netcoreapp3.1\FactoriseNum.exe
+D:\VS Studio\CsProjects\CS_Works\FactoriseNum\bin\Debug\netcoreapp3.1\FactoriseNum.deps.json
+D:\VS Studio\CsProjects\CS_Works\FactoriseNum\bin\Debug\netcoreapp3.1\FactoriseNum.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\FactoriseNum\bin\Debug\netcoreapp3.1\FactoriseNum.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\FactoriseNum\bin\Debug\netcoreapp3.1\FactoriseNum.dll
+D:\VS Studio\CsProjects\CS_Works\FactoriseNum\bin\Debug\netcoreapp3.1\FactoriseNum.pdb
+D:\VS Studio\CsProjects\CS_Works\FactoriseNum\obj\Debug\netcoreapp3.1\FactoriseNum.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\FactoriseNum\obj\Debug\netcoreapp3.1\FactoriseNum.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\FactoriseNum\obj\Debug\netcoreapp3.1\FactoriseNum.dll
+D:\VS Studio\CsProjects\CS_Works\FactoriseNum\obj\Debug\netcoreapp3.1\FactoriseNum.pdb
+D:\VS Studio\CsProjects\CS_Works\FactoriseNum\obj\Debug\netcoreapp3.1\FactoriseNum.csprojAssemblyReference.cache

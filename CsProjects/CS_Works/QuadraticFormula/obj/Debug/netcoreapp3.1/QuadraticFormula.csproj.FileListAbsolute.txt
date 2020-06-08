@@ -1,0 +1,11 @@
+D:\VS Studio\CsProjects\CS_Works\QuadraticFormula\bin\Debug\netcoreapp3.1\QuadraticFormula.exe
+D:\VS Studio\CsProjects\CS_Works\QuadraticFormula\bin\Debug\netcoreapp3.1\QuadraticFormula.deps.json
+D:\VS Studio\CsProjects\CS_Works\QuadraticFormula\bin\Debug\netcoreapp3.1\QuadraticFormula.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\QuadraticFormula\bin\Debug\netcoreapp3.1\QuadraticFormula.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\QuadraticFormula\bin\Debug\netcoreapp3.1\QuadraticFormula.dll
+D:\VS Studio\CsProjects\CS_Works\QuadraticFormula\bin\Debug\netcoreapp3.1\QuadraticFormula.pdb
+D:\VS Studio\CsProjects\CS_Works\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.csprojAssemblyReference.cache
+D:\VS Studio\CsProjects\CS_Works\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.dll
+D:\VS Studio\CsProjects\CS_Works\QuadraticFormula\obj\Debug\netcoreapp3.1\QuadraticFormula.pdb

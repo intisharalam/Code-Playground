@@ -1,0 +1,11 @@
+D:\VS Studio\CsProjects\CS_Works\Marks\bin\Debug\netcoreapp3.1\Marks.exe
+D:\VS Studio\CsProjects\CS_Works\Marks\bin\Debug\netcoreapp3.1\Marks.deps.json
+D:\VS Studio\CsProjects\CS_Works\Marks\bin\Debug\netcoreapp3.1\Marks.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\Marks\bin\Debug\netcoreapp3.1\Marks.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\Marks\bin\Debug\netcoreapp3.1\Marks.dll
+D:\VS Studio\CsProjects\CS_Works\Marks\bin\Debug\netcoreapp3.1\Marks.pdb
+D:\VS Studio\CsProjects\CS_Works\Marks\obj\Debug\netcoreapp3.1\Marks.csprojAssemblyReference.cache
+D:\VS Studio\CsProjects\CS_Works\Marks\obj\Debug\netcoreapp3.1\Marks.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\Marks\obj\Debug\netcoreapp3.1\Marks.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\Marks\obj\Debug\netcoreapp3.1\Marks.dll
+D:\VS Studio\CsProjects\CS_Works\Marks\obj\Debug\netcoreapp3.1\Marks.pdb

@@ -1,0 +1,11 @@
+D:\VS Studio\CsProjects\CS_Works\AvgArray\bin\Debug\netcoreapp3.1\AvgArray.exe
+D:\VS Studio\CsProjects\CS_Works\AvgArray\bin\Debug\netcoreapp3.1\AvgArray.deps.json
+D:\VS Studio\CsProjects\CS_Works\AvgArray\bin\Debug\netcoreapp3.1\AvgArray.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\AvgArray\bin\Debug\netcoreapp3.1\AvgArray.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\AvgArray\bin\Debug\netcoreapp3.1\AvgArray.dll
+D:\VS Studio\CsProjects\CS_Works\AvgArray\bin\Debug\netcoreapp3.1\AvgArray.pdb
+D:\VS Studio\CsProjects\CS_Works\AvgArray\obj\Debug\netcoreapp3.1\AvgArray.csprojAssemblyReference.cache
+D:\VS Studio\CsProjects\CS_Works\AvgArray\obj\Debug\netcoreapp3.1\AvgArray.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\AvgArray\obj\Debug\netcoreapp3.1\AvgArray.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\AvgArray\obj\Debug\netcoreapp3.1\AvgArray.dll
+D:\VS Studio\CsProjects\CS_Works\AvgArray\obj\Debug\netcoreapp3.1\AvgArray.pdb

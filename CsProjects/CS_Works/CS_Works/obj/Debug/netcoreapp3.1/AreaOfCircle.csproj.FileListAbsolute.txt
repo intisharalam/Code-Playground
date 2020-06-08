@@ -1,0 +1,11 @@
+D:\VS Studio\CsProjects\CS_Works\CS_Works\bin\Debug\netcoreapp3.1\AreaOfCircle.exe
+D:\VS Studio\CsProjects\CS_Works\CS_Works\bin\Debug\netcoreapp3.1\AreaOfCircle.deps.json
+D:\VS Studio\CsProjects\CS_Works\CS_Works\bin\Debug\netcoreapp3.1\AreaOfCircle.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\CS_Works\bin\Debug\netcoreapp3.1\AreaOfCircle.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\CS_Works\bin\Debug\netcoreapp3.1\AreaOfCircle.dll
+D:\VS Studio\CsProjects\CS_Works\CS_Works\bin\Debug\netcoreapp3.1\AreaOfCircle.pdb
+D:\VS Studio\CsProjects\CS_Works\CS_Works\obj\Debug\netcoreapp3.1\AreaOfCircle.csprojAssemblyReference.cache
+D:\VS Studio\CsProjects\CS_Works\CS_Works\obj\Debug\netcoreapp3.1\AreaOfCircle.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\CS_Works\obj\Debug\netcoreapp3.1\AreaOfCircle.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\CS_Works\obj\Debug\netcoreapp3.1\AreaOfCircle.dll
+D:\VS Studio\CsProjects\CS_Works\CS_Works\obj\Debug\netcoreapp3.1\AreaOfCircle.pdb

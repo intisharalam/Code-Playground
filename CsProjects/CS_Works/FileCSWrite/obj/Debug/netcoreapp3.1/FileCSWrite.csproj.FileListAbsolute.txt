@@ -1,0 +1,11 @@
+D:\VS Studio\CsProjects\CS_Works\FileCSWrite\obj\Debug\netcoreapp3.1\FileCSWrite.csprojAssemblyReference.cache
+D:\VS Studio\CsProjects\CS_Works\FileCSWrite\obj\Debug\netcoreapp3.1\FileCSWrite.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\FileCSWrite\obj\Debug\netcoreapp3.1\FileCSWrite.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\FileCSWrite\bin\Debug\netcoreapp3.1\FileCSWrite.exe
+D:\VS Studio\CsProjects\CS_Works\FileCSWrite\bin\Debug\netcoreapp3.1\FileCSWrite.deps.json
+D:\VS Studio\CsProjects\CS_Works\FileCSWrite\bin\Debug\netcoreapp3.1\FileCSWrite.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\FileCSWrite\bin\Debug\netcoreapp3.1\FileCSWrite.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\FileCSWrite\bin\Debug\netcoreapp3.1\FileCSWrite.dll
+D:\VS Studio\CsProjects\CS_Works\FileCSWrite\bin\Debug\netcoreapp3.1\FileCSWrite.pdb
+D:\VS Studio\CsProjects\CS_Works\FileCSWrite\obj\Debug\netcoreapp3.1\FileCSWrite.dll
+D:\VS Studio\CsProjects\CS_Works\FileCSWrite\obj\Debug\netcoreapp3.1\FileCSWrite.pdb

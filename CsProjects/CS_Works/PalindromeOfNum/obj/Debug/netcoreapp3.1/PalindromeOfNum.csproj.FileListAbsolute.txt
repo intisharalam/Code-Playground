@@ -1,0 +1,11 @@
+D:\VS Studio\CsProjects\CS_Works\PalindromeOfNum\bin\Debug\netcoreapp3.1\PalindromeOfNum.exe
+D:\VS Studio\CsProjects\CS_Works\PalindromeOfNum\bin\Debug\netcoreapp3.1\PalindromeOfNum.deps.json
+D:\VS Studio\CsProjects\CS_Works\PalindromeOfNum\bin\Debug\netcoreapp3.1\PalindromeOfNum.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\PalindromeOfNum\bin\Debug\netcoreapp3.1\PalindromeOfNum.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\PalindromeOfNum\bin\Debug\netcoreapp3.1\PalindromeOfNum.dll
+D:\VS Studio\CsProjects\CS_Works\PalindromeOfNum\bin\Debug\netcoreapp3.1\PalindromeOfNum.pdb
+D:\VS Studio\CsProjects\CS_Works\PalindromeOfNum\obj\Debug\netcoreapp3.1\PalindromeOfNum.csprojAssemblyReference.cache
+D:\VS Studio\CsProjects\CS_Works\PalindromeOfNum\obj\Debug\netcoreapp3.1\PalindromeOfNum.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\PalindromeOfNum\obj\Debug\netcoreapp3.1\PalindromeOfNum.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\PalindromeOfNum\obj\Debug\netcoreapp3.1\PalindromeOfNum.dll
+D:\VS Studio\CsProjects\CS_Works\PalindromeOfNum\obj\Debug\netcoreapp3.1\PalindromeOfNum.pdb

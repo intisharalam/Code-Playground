@@ -1,0 +1,11 @@
+D:\VS Studio\CsProjects\CS_Works\PowerOf\bin\Debug\netcoreapp3.1\PowerOf.exe
+D:\VS Studio\CsProjects\CS_Works\PowerOf\bin\Debug\netcoreapp3.1\PowerOf.deps.json
+D:\VS Studio\CsProjects\CS_Works\PowerOf\bin\Debug\netcoreapp3.1\PowerOf.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\PowerOf\bin\Debug\netcoreapp3.1\PowerOf.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\PowerOf\bin\Debug\netcoreapp3.1\PowerOf.dll
+D:\VS Studio\CsProjects\CS_Works\PowerOf\bin\Debug\netcoreapp3.1\PowerOf.pdb
+D:\VS Studio\CsProjects\CS_Works\PowerOf\obj\Debug\netcoreapp3.1\PowerOf.csprojAssemblyReference.cache
+D:\VS Studio\CsProjects\CS_Works\PowerOf\obj\Debug\netcoreapp3.1\PowerOf.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\PowerOf\obj\Debug\netcoreapp3.1\PowerOf.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\PowerOf\obj\Debug\netcoreapp3.1\PowerOf.dll
+D:\VS Studio\CsProjects\CS_Works\PowerOf\obj\Debug\netcoreapp3.1\PowerOf.pdb

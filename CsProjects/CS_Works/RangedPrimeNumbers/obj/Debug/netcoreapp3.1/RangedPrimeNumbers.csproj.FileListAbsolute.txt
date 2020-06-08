@@ -1,0 +1,11 @@
+D:\VS Studio\CsProjects\CS_Works\RangedPrimeNumbers\bin\Debug\netcoreapp3.1\RangedPrimeNumbers.exe
+D:\VS Studio\CsProjects\CS_Works\RangedPrimeNumbers\bin\Debug\netcoreapp3.1\RangedPrimeNumbers.deps.json
+D:\VS Studio\CsProjects\CS_Works\RangedPrimeNumbers\bin\Debug\netcoreapp3.1\RangedPrimeNumbers.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\RangedPrimeNumbers\bin\Debug\netcoreapp3.1\RangedPrimeNumbers.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\RangedPrimeNumbers\bin\Debug\netcoreapp3.1\RangedPrimeNumbers.dll
+D:\VS Studio\CsProjects\CS_Works\RangedPrimeNumbers\bin\Debug\netcoreapp3.1\RangedPrimeNumbers.pdb
+D:\VS Studio\CsProjects\CS_Works\RangedPrimeNumbers\obj\Debug\netcoreapp3.1\RangedPrimeNumbers.csprojAssemblyReference.cache
+D:\VS Studio\CsProjects\CS_Works\RangedPrimeNumbers\obj\Debug\netcoreapp3.1\RangedPrimeNumbers.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\RangedPrimeNumbers\obj\Debug\netcoreapp3.1\RangedPrimeNumbers.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\RangedPrimeNumbers\obj\Debug\netcoreapp3.1\RangedPrimeNumbers.dll
+D:\VS Studio\CsProjects\CS_Works\RangedPrimeNumbers\obj\Debug\netcoreapp3.1\RangedPrimeNumbers.pdb

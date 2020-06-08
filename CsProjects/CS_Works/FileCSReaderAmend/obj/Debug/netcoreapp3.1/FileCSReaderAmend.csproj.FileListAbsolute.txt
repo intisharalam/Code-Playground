@@ -1,0 +1,10 @@
+D:\VS Studio\CsProjects\CS_Works\FileCSReaderAmend\bin\Debug\netcoreapp3.1\FileCSReaderAmend.exe
+D:\VS Studio\CsProjects\CS_Works\FileCSReaderAmend\bin\Debug\netcoreapp3.1\FileCSReaderAmend.deps.json
+D:\VS Studio\CsProjects\CS_Works\FileCSReaderAmend\bin\Debug\netcoreapp3.1\FileCSReaderAmend.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\FileCSReaderAmend\bin\Debug\netcoreapp3.1\FileCSReaderAmend.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\FileCSReaderAmend\bin\Debug\netcoreapp3.1\FileCSReaderAmend.dll
+D:\VS Studio\CsProjects\CS_Works\FileCSReaderAmend\bin\Debug\netcoreapp3.1\FileCSReaderAmend.pdb
+D:\VS Studio\CsProjects\CS_Works\FileCSReaderAmend\obj\Debug\netcoreapp3.1\FileCSReaderAmend.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\FileCSReaderAmend\obj\Debug\netcoreapp3.1\FileCSReaderAmend.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\FileCSReaderAmend\obj\Debug\netcoreapp3.1\FileCSReaderAmend.dll
+D:\VS Studio\CsProjects\CS_Works\FileCSReaderAmend\obj\Debug\netcoreapp3.1\FileCSReaderAmend.pdb

@@ -1,0 +1,11 @@
+D:\VS Studio\CsProjects\CS_Works\PositiveOrNegative\bin\Debug\netcoreapp3.1\PositiveOrNegative.exe
+D:\VS Studio\CsProjects\CS_Works\PositiveOrNegative\bin\Debug\netcoreapp3.1\PositiveOrNegative.deps.json
+D:\VS Studio\CsProjects\CS_Works\PositiveOrNegative\bin\Debug\netcoreapp3.1\PositiveOrNegative.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\PositiveOrNegative\bin\Debug\netcoreapp3.1\PositiveOrNegative.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\PositiveOrNegative\bin\Debug\netcoreapp3.1\PositiveOrNegative.dll
+D:\VS Studio\CsProjects\CS_Works\PositiveOrNegative\bin\Debug\netcoreapp3.1\PositiveOrNegative.pdb
+D:\VS Studio\CsProjects\CS_Works\PositiveOrNegative\obj\Debug\netcoreapp3.1\PositiveOrNegative.csprojAssemblyReference.cache
+D:\VS Studio\CsProjects\CS_Works\PositiveOrNegative\obj\Debug\netcoreapp3.1\PositiveOrNegative.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\PositiveOrNegative\obj\Debug\netcoreapp3.1\PositiveOrNegative.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\PositiveOrNegative\obj\Debug\netcoreapp3.1\PositiveOrNegative.dll
+D:\VS Studio\CsProjects\CS_Works\PositiveOrNegative\obj\Debug\netcoreapp3.1\PositiveOrNegative.pdb

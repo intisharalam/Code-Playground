@@ -1,0 +1,11 @@
+D:\VS Studio\CsProjects\CS_Works\FileCSAmend\obj\Debug\netcoreapp3.1\FileCSAmend.csprojAssemblyReference.cache
+D:\VS Studio\CsProjects\CS_Works\FileCSAmend\obj\Debug\netcoreapp3.1\FileCSAmend.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\FileCSAmend\obj\Debug\netcoreapp3.1\FileCSAmend.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\FileCSAmend\bin\Debug\netcoreapp3.1\FileCSAmend.exe
+D:\VS Studio\CsProjects\CS_Works\FileCSAmend\bin\Debug\netcoreapp3.1\FileCSAmend.deps.json
+D:\VS Studio\CsProjects\CS_Works\FileCSAmend\bin\Debug\netcoreapp3.1\FileCSAmend.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\FileCSAmend\bin\Debug\netcoreapp3.1\FileCSAmend.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\FileCSAmend\bin\Debug\netcoreapp3.1\FileCSAmend.dll
+D:\VS Studio\CsProjects\CS_Works\FileCSAmend\bin\Debug\netcoreapp3.1\FileCSAmend.pdb
+D:\VS Studio\CsProjects\CS_Works\FileCSAmend\obj\Debug\netcoreapp3.1\FileCSAmend.dll
+D:\VS Studio\CsProjects\CS_Works\FileCSAmend\obj\Debug\netcoreapp3.1\FileCSAmend.pdb

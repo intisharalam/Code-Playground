@@ -1,0 +1,11 @@
+D:\VS Studio\CsProjects\CS_Works\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.exe
+D:\VS Studio\CsProjects\CS_Works\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.deps.json
+D:\VS Studio\CsProjects\CS_Works\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.dll
+D:\VS Studio\CsProjects\CS_Works\EvenOrOdd\bin\Debug\netcoreapp3.1\EvenOrOdd.pdb
+D:\VS Studio\CsProjects\CS_Works\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.csprojAssemblyReference.cache
+D:\VS Studio\CsProjects\CS_Works\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.dll
+D:\VS Studio\CsProjects\CS_Works\EvenOrOdd\obj\Debug\netcoreapp3.1\EvenOrOdd.pdb

@@ -1,0 +1,11 @@
+D:\VS Studio\CsProjects\CS_Works\FileCS\bin\Debug\netcoreapp3.1\FileCS.exe
+D:\VS Studio\CsProjects\CS_Works\FileCS\bin\Debug\netcoreapp3.1\FileCS.deps.json
+D:\VS Studio\CsProjects\CS_Works\FileCS\bin\Debug\netcoreapp3.1\FileCS.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\FileCS\bin\Debug\netcoreapp3.1\FileCS.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\FileCS\bin\Debug\netcoreapp3.1\FileCS.dll
+D:\VS Studio\CsProjects\CS_Works\FileCS\bin\Debug\netcoreapp3.1\FileCS.pdb
+D:\VS Studio\CsProjects\CS_Works\FileCS\obj\Debug\netcoreapp3.1\FileCS.csprojAssemblyReference.cache
+D:\VS Studio\CsProjects\CS_Works\FileCS\obj\Debug\netcoreapp3.1\FileCS.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\FileCS\obj\Debug\netcoreapp3.1\FileCS.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\FileCS\obj\Debug\netcoreapp3.1\FileCS.dll
+D:\VS Studio\CsProjects\CS_Works\FileCS\obj\Debug\netcoreapp3.1\FileCS.pdb

@@ -1,0 +1,11 @@
+D:\VS Studio\CsProjects\CS_Works\ReverseNum\bin\Debug\netcoreapp3.1\ReverseNum.exe
+D:\VS Studio\CsProjects\CS_Works\ReverseNum\bin\Debug\netcoreapp3.1\ReverseNum.deps.json
+D:\VS Studio\CsProjects\CS_Works\ReverseNum\bin\Debug\netcoreapp3.1\ReverseNum.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\ReverseNum\bin\Debug\netcoreapp3.1\ReverseNum.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\ReverseNum\bin\Debug\netcoreapp3.1\ReverseNum.dll
+D:\VS Studio\CsProjects\CS_Works\ReverseNum\bin\Debug\netcoreapp3.1\ReverseNum.pdb
+D:\VS Studio\CsProjects\CS_Works\ReverseNum\obj\Debug\netcoreapp3.1\ReverseNum.csprojAssemblyReference.cache
+D:\VS Studio\CsProjects\CS_Works\ReverseNum\obj\Debug\netcoreapp3.1\ReverseNum.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\ReverseNum\obj\Debug\netcoreapp3.1\ReverseNum.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\ReverseNum\obj\Debug\netcoreapp3.1\ReverseNum.dll
+D:\VS Studio\CsProjects\CS_Works\ReverseNum\obj\Debug\netcoreapp3.1\ReverseNum.pdb

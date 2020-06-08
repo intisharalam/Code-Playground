@@ -1,0 +1,11 @@
+D:\VS Studio\CsProjects\CS_Works\HighestNum\bin\Debug\netcoreapp3.1\HighestNum.exe
+D:\VS Studio\CsProjects\CS_Works\HighestNum\bin\Debug\netcoreapp3.1\HighestNum.deps.json
+D:\VS Studio\CsProjects\CS_Works\HighestNum\bin\Debug\netcoreapp3.1\HighestNum.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\HighestNum\bin\Debug\netcoreapp3.1\HighestNum.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\HighestNum\bin\Debug\netcoreapp3.1\HighestNum.dll
+D:\VS Studio\CsProjects\CS_Works\HighestNum\bin\Debug\netcoreapp3.1\HighestNum.pdb
+D:\VS Studio\CsProjects\CS_Works\HighestNum\obj\Debug\netcoreapp3.1\HighestNum.csprojAssemblyReference.cache
+D:\VS Studio\CsProjects\CS_Works\HighestNum\obj\Debug\netcoreapp3.1\HighestNum.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\HighestNum\obj\Debug\netcoreapp3.1\HighestNum.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\HighestNum\obj\Debug\netcoreapp3.1\HighestNum.dll
+D:\VS Studio\CsProjects\CS_Works\HighestNum\obj\Debug\netcoreapp3.1\HighestNum.pdb

@@ -1,0 +1,10 @@
+D:\VS Studio\CsProjects\CS_Works\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.exe
+D:\VS Studio\CsProjects\CS_Works\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.deps.json
+D:\VS Studio\CsProjects\CS_Works\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.dll
+D:\VS Studio\CsProjects\CS_Works\SumOfNumbers\bin\Debug\netcoreapp3.1\SumOfNumbers.pdb
+D:\VS Studio\CsProjects\CS_Works\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.dll
+D:\VS Studio\CsProjects\CS_Works\SumOfNumbers\obj\Debug\netcoreapp3.1\SumOfNumbers.pdb

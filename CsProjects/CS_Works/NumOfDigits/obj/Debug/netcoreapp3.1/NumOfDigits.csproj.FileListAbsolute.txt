@@ -1,0 +1,10 @@
+D:\VS Studio\CsProjects\CS_Works\NumOfDigits\bin\Debug\netcoreapp3.1\NumOfDigits.exe
+D:\VS Studio\CsProjects\CS_Works\NumOfDigits\bin\Debug\netcoreapp3.1\NumOfDigits.deps.json
+D:\VS Studio\CsProjects\CS_Works\NumOfDigits\bin\Debug\netcoreapp3.1\NumOfDigits.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\NumOfDigits\bin\Debug\netcoreapp3.1\NumOfDigits.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\NumOfDigits\bin\Debug\netcoreapp3.1\NumOfDigits.dll
+D:\VS Studio\CsProjects\CS_Works\NumOfDigits\bin\Debug\netcoreapp3.1\NumOfDigits.pdb
+D:\VS Studio\CsProjects\CS_Works\NumOfDigits\obj\Debug\netcoreapp3.1\NumOfDigits.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\NumOfDigits\obj\Debug\netcoreapp3.1\NumOfDigits.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\NumOfDigits\obj\Debug\netcoreapp3.1\NumOfDigits.dll
+D:\VS Studio\CsProjects\CS_Works\NumOfDigits\obj\Debug\netcoreapp3.1\NumOfDigits.pdb

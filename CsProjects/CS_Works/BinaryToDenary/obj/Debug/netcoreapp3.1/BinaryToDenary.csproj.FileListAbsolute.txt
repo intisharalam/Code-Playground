@@ -1,0 +1,10 @@
+D:\VS Studio\CsProjects\CS_Works\BinaryToDenary\bin\Debug\netcoreapp3.1\BinaryToDenary.exe
+D:\VS Studio\CsProjects\CS_Works\BinaryToDenary\bin\Debug\netcoreapp3.1\BinaryToDenary.deps.json
+D:\VS Studio\CsProjects\CS_Works\BinaryToDenary\bin\Debug\netcoreapp3.1\BinaryToDenary.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\BinaryToDenary\bin\Debug\netcoreapp3.1\BinaryToDenary.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\BinaryToDenary\bin\Debug\netcoreapp3.1\BinaryToDenary.dll
+D:\VS Studio\CsProjects\CS_Works\BinaryToDenary\bin\Debug\netcoreapp3.1\BinaryToDenary.pdb
+D:\VS Studio\CsProjects\CS_Works\BinaryToDenary\obj\Debug\netcoreapp3.1\BinaryToDenary.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\BinaryToDenary\obj\Debug\netcoreapp3.1\BinaryToDenary.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\BinaryToDenary\obj\Debug\netcoreapp3.1\BinaryToDenary.dll
+D:\VS Studio\CsProjects\CS_Works\BinaryToDenary\obj\Debug\netcoreapp3.1\BinaryToDenary.pdb

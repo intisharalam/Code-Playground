@@ -1,0 +1,11 @@
+D:\VS Studio\CsProjects\CS_Works\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.exe
+D:\VS Studio\CsProjects\CS_Works\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.deps.json
+D:\VS Studio\CsProjects\CS_Works\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.dll
+D:\VS Studio\CsProjects\CS_Works\SumOfDigits\bin\Debug\netcoreapp3.1\SumOfDigits.pdb
+D:\VS Studio\CsProjects\CS_Works\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.csprojAssemblyReference.cache
+D:\VS Studio\CsProjects\CS_Works\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.dll
+D:\VS Studio\CsProjects\CS_Works\SumOfDigits\obj\Debug\netcoreapp3.1\SumOfDigits.pdb

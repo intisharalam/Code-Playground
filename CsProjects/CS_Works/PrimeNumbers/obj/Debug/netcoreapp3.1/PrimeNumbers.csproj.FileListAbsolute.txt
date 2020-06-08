@@ -1,0 +1,11 @@
+D:\VS Studio\CsProjects\CS_Works\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.exe
+D:\VS Studio\CsProjects\CS_Works\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.deps.json
+D:\VS Studio\CsProjects\CS_Works\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.dll
+D:\VS Studio\CsProjects\CS_Works\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.pdb
+D:\VS Studio\CsProjects\CS_Works\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.csprojAssemblyReference.cache
+D:\VS Studio\CsProjects\CS_Works\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.dll
+D:\VS Studio\CsProjects\CS_Works\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.pdb

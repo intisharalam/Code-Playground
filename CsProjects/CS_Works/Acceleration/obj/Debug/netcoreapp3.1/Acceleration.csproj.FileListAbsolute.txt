@@ -1,0 +1,11 @@
+D:\VS Studio\CsProjects\CS_Works\Acceleration\bin\Debug\netcoreapp3.1\Acceleration.exe
+D:\VS Studio\CsProjects\CS_Works\Acceleration\bin\Debug\netcoreapp3.1\Acceleration.deps.json
+D:\VS Studio\CsProjects\CS_Works\Acceleration\bin\Debug\netcoreapp3.1\Acceleration.runtimeconfig.json
+D:\VS Studio\CsProjects\CS_Works\Acceleration\bin\Debug\netcoreapp3.1\Acceleration.runtimeconfig.dev.json
+D:\VS Studio\CsProjects\CS_Works\Acceleration\bin\Debug\netcoreapp3.1\Acceleration.dll
+D:\VS Studio\CsProjects\CS_Works\Acceleration\bin\Debug\netcoreapp3.1\Acceleration.pdb
+D:\VS Studio\CsProjects\CS_Works\Acceleration\obj\Debug\netcoreapp3.1\Acceleration.csprojAssemblyReference.cache
+D:\VS Studio\CsProjects\CS_Works\Acceleration\obj\Debug\netcoreapp3.1\Acceleration.AssemblyInfoInputs.cache
+D:\VS Studio\CsProjects\CS_Works\Acceleration\obj\Debug\netcoreapp3.1\Acceleration.AssemblyInfo.cs
+D:\VS Studio\CsProjects\CS_Works\Acceleration\obj\Debug\netcoreapp3.1\Acceleration.dll
+D:\VS Studio\CsProjects\CS_Works\Acceleration\obj\Debug\netcoreapp3.1\Acceleration.pdb
