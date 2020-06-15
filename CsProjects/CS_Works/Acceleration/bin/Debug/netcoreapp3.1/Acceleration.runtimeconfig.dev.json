@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\intis\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\intis\\.nuget\\packages"
+      "/home/intishar/.dotnet/store/|arch|/|tfm|",
+      "/home/intishar/.nuget/packages"
     ]
   }
 }

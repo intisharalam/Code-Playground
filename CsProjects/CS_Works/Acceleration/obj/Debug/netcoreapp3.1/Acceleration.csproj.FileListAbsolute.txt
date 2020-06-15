@@ -1,11 +1,24 @@
-D:\VS Studio\CsProjects\CS_Works\Acceleration\bin\Debug\netcoreapp3.1\Acceleration.exe
-D:\VS Studio\CsProjects\CS_Works\Acceleration\bin\Debug\netcoreapp3.1\Acceleration.deps.json
-D:\VS Studio\CsProjects\CS_Works\Acceleration\bin\Debug\netcoreapp3.1\Acceleration.runtimeconfig.json
-D:\VS Studio\CsProjects\CS_Works\Acceleration\bin\Debug\netcoreapp3.1\Acceleration.runtimeconfig.dev.json
-D:\VS Studio\CsProjects\CS_Works\Acceleration\bin\Debug\netcoreapp3.1\Acceleration.dll
-D:\VS Studio\CsProjects\CS_Works\Acceleration\bin\Debug\netcoreapp3.1\Acceleration.pdb
-D:\VS Studio\CsProjects\CS_Works\Acceleration\obj\Debug\netcoreapp3.1\Acceleration.csprojAssemblyReference.cache
-D:\VS Studio\CsProjects\CS_Works\Acceleration\obj\Debug\netcoreapp3.1\Acceleration.AssemblyInfoInputs.cache
-D:\VS Studio\CsProjects\CS_Works\Acceleration\obj\Debug\netcoreapp3.1\Acceleration.AssemblyInfo.cs
-D:\VS Studio\CsProjects\CS_Works\Acceleration\obj\Debug\netcoreapp3.1\Acceleration.dll
-D:\VS Studio\CsProjects\CS_Works\Acceleration\obj\Debug\netcoreapp3.1\Acceleration.pdb
+D:/VS Studio/CsProjects/CS_Works/Acceleration/bin/Debug/netcoreapp3.1/Acceleration.exe
+D:/VS Studio/CsProjects/CS_Works/Acceleration/bin/Debug/netcoreapp3.1/Acceleration.deps.json
+D:/VS Studio/CsProjects/CS_Works/Acceleration/bin/Debug/netcoreapp3.1/Acceleration.runtimeconfig.json
+D:/VS Studio/CsProjects/CS_Works/Acceleration/bin/Debug/netcoreapp3.1/Acceleration.runtimeconfig.dev.json
+D:/VS Studio/CsProjects/CS_Works/Acceleration/bin/Debug/netcoreapp3.1/Acceleration.dll
+D:/VS Studio/CsProjects/CS_Works/Acceleration/bin/Debug/netcoreapp3.1/Acceleration.pdb
+D:/VS Studio/CsProjects/CS_Works/Acceleration/obj/Debug/netcoreapp3.1/Acceleration.csprojAssemblyReference.cache
+D:/VS Studio/CsProjects/CS_Works/Acceleration/obj/Debug/netcoreapp3.1/Acceleration.AssemblyInfoInputs.cache
+D:/VS Studio/CsProjects/CS_Works/Acceleration/obj/Debug/netcoreapp3.1/Acceleration.AssemblyInfo.cs
+D:/VS Studio/CsProjects/CS_Works/Acceleration/obj/Debug/netcoreapp3.1/Acceleration.dll
+D:/VS Studio/CsProjects/CS_Works/Acceleration/obj/Debug/netcoreapp3.1/Acceleration.pdb
+/home/intishar/Documents/GitHub/Code-Playground/CsProjects/CS_Works/Acceleration/bin/Debug/netcoreapp3.1/Acceleration
+/home/intishar/Documents/GitHub/Code-Playground/CsProjects/CS_Works/Acceleration/bin/Debug/netcoreapp3.1/Acceleration.deps.json
+/home/intishar/Documents/GitHub/Code-Playground/CsProjects/CS_Works/Acceleration/bin/Debug/netcoreapp3.1/Acceleration.runtimeconfig.json
+/home/intishar/Documents/GitHub/Code-Playground/CsProjects/CS_Works/Acceleration/bin/Debug/netcoreapp3.1/Acceleration.runtimeconfig.dev.json
+/home/intishar/Documents/GitHub/Code-Playground/CsProjects/CS_Works/Acceleration/bin/Debug/netcoreapp3.1/Acceleration.dll
+/home/intishar/Documents/GitHub/Code-Playground/CsProjects/CS_Works/Acceleration/bin/Debug/netcoreapp3.1/Acceleration.pdb
+/home/intishar/Documents/GitHub/Code-Playground/CsProjects/CS_Works/Acceleration/obj/Debug/netcoreapp3.1/Acceleration.csprojAssemblyReference.cache
+/home/intishar/Documents/GitHub/Code-Playground/CsProjects/CS_Works/Acceleration/obj/Debug/netcoreapp3.1/Acceleration.AssemblyInfoInputs.cache
+/home/intishar/Documents/GitHub/Code-Playground/CsProjects/CS_Works/Acceleration/obj/Debug/netcoreapp3.1/Acceleration.AssemblyInfo.cs
+/home/intishar/Documents/GitHub/Code-Playground/CsProjects/CS_Works/Acceleration/obj/Debug/netcoreapp3.1/Acceleration.csproj.CoreCompileInputs.cache
+/home/intishar/Documents/GitHub/Code-Playground/CsProjects/CS_Works/Acceleration/obj/Debug/netcoreapp3.1/Acceleration.dll
+/home/intishar/Documents/GitHub/Code-Playground/CsProjects/CS_Works/Acceleration/obj/Debug/netcoreapp3.1/Acceleration.pdb
+/home/intishar/Documents/GitHub/Code-Playground/CsProjects/CS_Works/Acceleration/obj/Debug/netcoreapp3.1/Acceleration.genruntimeconfig.cache
